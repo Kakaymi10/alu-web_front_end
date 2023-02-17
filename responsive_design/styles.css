@@ -184,6 +184,13 @@ input[type=checkbox]{
 }
 
 /** --work section -- */
+
+#works {
+    background-color: black;
+}
+#works h2{
+    color: white;
+}
 .row2 {
     padding: 0;
 }
